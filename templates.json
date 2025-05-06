@@ -1,0 +1,21 @@
+{
+  "howto": [
+    "How to Get Started with {keyword} Step-by-Step",
+    "A Beginner's Guide to Understanding {topic}",
+    "How to Effectively Use {keyword} for Small Businesses"
+  ],
+  "listicle": [
+    "Top {number} Tips for Mastering {keyword} in {year}",
+    "{number} Common Mistakes to Avoid with {topic}",
+    "The {number} Essential Tools for Anyone Using {keyword}"
+  ],
+  "questions": [
+    "What Exactly Is {topic} and Why Does It Matter?",
+    "Is {keyword} Still a Valuable Skill in {year}?",
+    "How Can {topic} Improve [Specific Outcome e.g., Customer Engagement]?"
+  ],
+  "guides": [
+    "The Ultimate {year} Guide to {topic}",
+    "Everything You Need to Know About {keyword}"
+  ]
+}
